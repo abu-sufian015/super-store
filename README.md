@@ -1,5 +1,5 @@
 # super-store
-### This project provides a comprehensive analysis of Super-Store sales data using Power BI. It includes visual insights on sales performance, profitability, order trends, and forecasting. The dashboard focuses on segmenting data by category, region, and customer behavior to identify key business trends and areas of improvement.
+#### This project provides a comprehensive analysis of Super-Store sales data using Power BI. It includes visual insights on sales performance, profitability, order trends, and forecasting. The dashboard focuses on segmenting data by category, region, and customer behavior to identify key business trends and areas of improvement.
 
 #### Features:
 
