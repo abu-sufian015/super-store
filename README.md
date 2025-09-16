@@ -12,7 +12,8 @@ This project provides a detailed analysis of Super-Store sales data using **Powe
 - **Dashboard Tools:** Created an interactive dashboard using **Power BI Desktop** for easy decision-making.
 
 ---
-![dashboard](Dashboard-page.png)
+![dashboard](sales-analysis.png)
+
 
 ---
 
@@ -56,7 +57,5 @@ This project demonstrates how to extract insights from retail sales data using a
 ## Outcome
 This project provides a practical dashboard for retail management teams to monitor performance, understand customer behavior, forecast sales, and improve profitability. It demonstrates the use of Power BI for turning raw data into actionable business insights.
 
-## GitHub
-You can explore the full project and dashboard here: [GitHub Repository](https://github.com/abu-sufian015/Super-Store-Sales-Analysis)
 
   
