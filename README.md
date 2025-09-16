@@ -1,10 +1,10 @@
 # super-store
-#### This project provides a comprehensive analysis of Super-Store sales data using Power BI. It includes visual insights on sales performance, profitability, order trends, and forecasting. The dashboard focuses on segmenting data by category, region, and customer behavior to identify key business trends and areas of improvement.
+This project provides a comprehensive analysis of Super-Store sales data using Power BI. It includes visual insights on sales performance, profitability, order trends, and forecasting. The dashboard focuses on segmenting data by category, region, and customer behavior to identify key business trends and areas of improvement.
 
 #### Features:
 
 - Sales Insights: Sales by category, sub-category, and shipping mode provide actionable insights into top-performing products and delivery preferences.
-- Regional Performance: Sales and profit analysis across different regions help prioritize strategic efforts for underperforming areas.
+- Regional Performance: Sales and profit analysis across different regions helps prioritize strategic efforts for underperforming areas.
 - Customer Segmentation: Segmentation into Consumer, Corporate, and Home Office customers highlights their contribution to sales and profit.
 - Time-Based Trends: Monthly sales trends from 2019–2020 and 20-day sales forecasting predict future performance.
 - Profitability Analysis: A breakdown of profits by state and product category to optimize pricing and stock management.
